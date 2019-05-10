@@ -23,8 +23,6 @@ Global interrupt: Set up an interrupt on a timer that updates the LED intensity 
 Result: with different phases between each channel a nice pattern of colors appear. 
 
 For the TLC5940 I refactored the code from the following source to work with STM32
-https://sites.google.com/site/artcfox/demystifying-the-tlc5940
-
 [Demystifying the TLC5940 A free book/library by Matthew T. Pandina](https://sites.google.com/site/artcfox/demystifying-the-tlc5940)
 
 
